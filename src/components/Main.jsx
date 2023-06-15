@@ -27,7 +27,7 @@ const Main = () => {
         alt=''
       />
       <div className='w-full h-screen absolute top-0 left-0 bg-darkwhite/o.5 justify-center' >
-        <div className='max-w-[700px] m-auto h-full flex flex-col  lg:items-start items-center'>
+        <div className='max-w-[700px] m-auto h-full flex flex-col git lg:items-start items-center'>
         <h1 className= 'flex sm:text-3xl text-2xl pt-4 text-white' style={{color:'orange' ,
         fontFamily:'',
       }}>
